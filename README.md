@@ -22,8 +22,8 @@ You should create one R script called run_analysis.R that does the following.
 
 1. Download the data.
 
-2. Set r UCI HAR Dataset as your working directory using r setwd() function in RStudio.
+2. Set **UCI HAR Dataset** as your working directory using *setwd()* function in RStudio.
 
-3. Download r run_analysis.R.
+3. Download **run_analysis.R**.
 
-4. Run r source("run_analysis.R") (it will create a new file 'newdata.txt' in your working directory)
+4. Run **source("run_analysis.R")** (it will create a new file 'newdata.txt' in your working directory)
